@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Id: VRLabs.TSR.UV123
   Name: UV123
-  Version: 1.0
+  Version: master
   Author: VRLabs
   Description: Support for UV 1, 2 and 3 in the base uv set
   EnableProperties: []

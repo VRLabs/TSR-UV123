@@ -1,0 +1,10 @@
+﻿package-name: TSR.UV123
+visual-name: TSR UV123 
+destination-folder: Assets/VRLabs/Toony Standard Rebuild Modules/TSR UV123
+extra-generated-meta:
+  - path: Assets/VRLabs
+    guid: 652a1ba5b00554143bc9a76307dbc4e8
+  - path: Assets/VRLabs/Toony Standard Rebuild Modules
+    guid: d3d02b5b274410849ba3e6c360e2f005
+  - path: Assets/VRLabs/Toony Standard Rebuild Modules/TSR UV123
+    guid: 3f4c0aeb206c84549923494cbe243029
